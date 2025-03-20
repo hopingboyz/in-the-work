@@ -1,0 +1,141 @@
+latest:
+  change-interval: 50
+  texts:
+  - "&#f0fc47&lL&#fdfc47&la&#f0fc47&lt&#e3fc46&le&#d7fc46&ls&#cafc46&lt &#bdfd45&lA&#b0fd45&ln&#a4fd45&ln&#97fd44&lo&#8afd44&lu&#7dfd43&ln&#71fd43&lc&#64fd43&lm&#57fe42&le&#4afe42&ln&#3efe42&lt"
+  - "&#e3fc46&lL&#f0fc47&la&#fdfc47&lt&#f0fc47&le&#e3fc46&ls&#d7fc46&lt &#cafc46&lA&#bdfd45&ln&#b0fd45&ln&#a4fd45&lo&#97fd44&lu&#8afd44&ln&#7dfd43&lc&#71fd43&lm&#64fd43&le&#57fe42&ln&#4afe42&lt"
+  - "&#d7fc46&lL&#e3fc46&la&#f0fc47&lt&#fdfc47&le&#f0fc47&ls&#e3fc46&lt &#d7fc46&lA&#cafc46&ln&#bdfd45&ln&#b0fd45&lo&#a4fd45&lu&#97fd44&ln&#8afd44&lc&#7dfd43&lm&#71fd43&le&#64fd43&ln&#57fe42&lt"
+  - "&#cafc46&lL&#d7fc46&la&#e3fc46&lt&#f0fc47&le&#fdfc47&ls&#f0fc47&lt &#e3fc46&lA&#d7fc46&ln&#cafc46&ln&#bdfd45&lo&#b0fd45&lu&#a4fd45&ln&#97fd44&lc&#8afd44&lm&#7dfd43&le&#71fd43&ln&#64fd43&lt"
+  - "&#bdfd45&lL&#cafc46&la&#d7fc46&lt&#e3fc46&le&#f0fc47&ls&#fdfc47&lt &#f0fc47&lA&#e3fc46&ln&#d7fc46&ln&#cafc46&lo&#bdfd45&lu&#b0fd45&ln&#a4fd45&lc&#97fd44&lm&#8afd44&le&#7dfd43&ln&#71fd43&lt"
+  - "&#b0fd45&lL&#bdfd45&la&#cafc46&lt&#d7fc46&le&#e3fc46&ls&#f0fc47&lt &#fdfc47&lA&#f0fc47&ln&#e3fc46&ln&#d7fc46&lo&#cafc46&lu&#bdfd45&ln&#b0fd45&lc&#a4fd45&lm&#97fd44&le&#8afd44&ln&#7dfd43&lt"
+  - "&#a4fd45&lL&#b0fd45&la&#bdfd45&lt&#cafc46&le&#d7fc46&ls&#e3fc46&lt &#f0fc47&lA&#fdfc47&ln&#f0fc47&ln&#e3fc46&lo&#d7fc46&lu&#cafc46&ln&#bdfd45&lc&#b0fd45&lm&#a4fd45&le&#97fd44&ln&#8afd44&lt"
+  - "&#97fd44&lL&#a4fd45&la&#b0fd45&lt&#bdfd45&le&#cafc46&ls&#d7fc46&lt &#e3fc46&lA&#f0fc47&ln&#fdfc47&ln&#f0fc47&lo&#e3fc46&lu&#d7fc46&ln&#cafc46&lc&#bdfd45&lm&#b0fd45&le&#a4fd45&ln&#97fd44&lt"
+  - "&#8afd44&lL&#97fd44&la&#a4fd45&lt&#b0fd45&le&#bdfd45&ls&#cafc46&lt &#d7fc46&lA&#e3fc46&ln&#f0fc47&ln&#fdfc47&lo&#f0fc47&lu&#e3fc46&ln&#d7fc46&lc&#cafc46&lm&#bdfd45&le&#b0fd45&ln&#a4fd45&lt"
+  - "&#7dfd43&lL&#8afd44&la&#97fd44&lt&#a4fd45&le&#b0fd45&ls&#bdfd45&lt &#cafc46&lA&#d7fc46&ln&#e3fc46&ln&#f0fc47&lo&#fdfc47&lu&#f0fc47&ln&#e3fc46&lc&#d7fc46&lm&#cafc46&le&#bdfd45&ln&#b0fd45&lt"
+  - "&#71fd43&lL&#7dfd43&la&#8afd44&lt&#97fd44&le&#a4fd45&ls&#b0fd45&lt &#bdfd45&lA&#cafc46&ln&#d7fc46&ln&#e3fc46&lo&#f0fc47&lu&#fdfc47&ln&#f0fc47&lc&#e3fc46&lm&#d7fc46&le&#cafc46&ln&#bdfd45&lt"
+  - "&#64fd43&lL&#71fd43&la&#7dfd43&lt&#8afd44&le&#97fd44&ls&#a4fd45&lt &#b0fd45&lA&#bdfd45&ln&#cafc46&ln&#d7fc46&lo&#e3fc46&lu&#f0fc47&ln&#fdfc47&lc&#f0fc47&lm&#e3fc46&le&#d7fc46&ln&#cafc46&lt"
+  - "&#57fe42&lL&#64fd43&la&#71fd43&lt&#7dfd43&le&#8afd44&ls&#97fd44&lt &#a4fd45&lA&#b0fd45&ln&#bdfd45&ln&#cafc46&lo&#d7fc46&lu&#e3fc46&ln&#f0fc47&lc&#fdfc47&lm&#f0fc47&le&#e3fc46&ln&#d7fc46&lt"
+  - "&#4afe42&lL&#57fe42&la&#64fd43&lt&#71fd43&le&#7dfd43&ls&#8afd44&lt &#97fd44&lA&#a4fd45&ln&#b0fd45&ln&#bdfd45&lo&#cafc46&lu&#d7fc46&ln&#e3fc46&lc&#f0fc47&lm&#fdfc47&le&#f0fc47&ln&#e3fc46&lt"
+  - "&#3efe42&lL&#4afe42&la&#57fe42&lt&#64fd43&le&#71fd43&ls&#7dfd43&lt &#8afd44&lA&#97fd44&ln&#a4fd45&ln&#b0fd45&lo&#bdfd45&lu&#cafc46&ln&#d7fc46&lc&#e3fc46&lm&#f0fc47&le&#fdfc47&ln&#f0fc47&lt"
+  - "&#31fe41&lL&#3efe42&la&#4afe42&lt&#57fe42&le&#64fd43&ls&#71fd43&lt &#7dfd43&lA&#8afd44&ln&#97fd44&ln&#a4fd45&lo&#b0fd45&lu&#bdfd45&ln&#cafc46&lc&#d7fc46&lm&#e3fc46&le&#f0fc47&ln&#fdfc47&lt"
+  - "&#24fe41&lL&#31fe41&la&#3efe42&lt&#4afe42&le&#57fe42&ls&#64fd43&lt &#71fd43&lA&#7dfd43&ln&#8afd44&ln&#97fd44&lo&#a4fd45&lu&#b0fd45&ln&#bdfd45&lc&#cafc46&lm&#d7fc46&le&#e3fc46&ln&#f0fc47&lt"
+  - "&#31fe41&lL&#24fe41&la&#31fe41&lt&#3efe42&le&#4afe42&ls&#57fe42&lt &#64fd43&lA&#71fd43&ln&#7dfd43&ln&#8afd44&lo&#97fd44&lu&#a4fd45&ln&#b0fd45&lc&#bdfd45&lm&#cafc46&le&#d7fc46&ln&#e3fc46&lt"
+  - "&#3efe42&lL&#31fe41&la&#24fe41&lt&#31fe41&le&#3efe42&ls&#4afe42&lt &#57fe42&lA&#64fd43&ln&#71fd43&ln&#7dfd43&lo&#8afd44&lu&#97fd44&ln&#a4fd45&lc&#b0fd45&lm&#bdfd45&le&#cafc46&ln&#d7fc46&lt"
+  - "&#4afe42&lL&#3efe42&la&#31fe41&lt&#24fe41&le&#31fe41&ls&#3efe42&lt &#4afe42&lA&#57fe42&ln&#64fd43&ln&#71fd43&lo&#7dfd43&lu&#8afd44&ln&#97fd44&lc&#a4fd45&lm&#b0fd45&le&#bdfd45&ln&#cafc46&lt"
+  - "&#57fe42&lL&#4afe42&la&#3efe42&lt&#31fe41&le&#24fe41&ls&#31fe41&lt &#3efe42&lA&#4afe42&ln&#57fe42&ln&#64fd43&lo&#71fd43&lu&#7dfd43&ln&#8afd44&lc&#97fd44&lm&#a4fd45&le&#b0fd45&ln&#bdfd45&lt"
+  - "&#64fd43&lL&#57fe42&la&#4afe42&lt&#3efe42&le&#31fe41&ls&#24fe41&lt &#31fe41&lA&#3efe42&ln&#4afe42&ln&#57fe42&lo&#64fd43&lu&#71fd43&ln&#7dfd43&lc&#8afd44&lm&#97fd44&le&#a4fd45&ln&#b0fd45&lt"
+  - "&#71fd43&lL&#64fd43&la&#57fe42&lt&#4afe42&le&#3efe42&ls&#31fe41&lt &#24fe41&lA&#31fe41&ln&#3efe42&ln&#4afe42&lo&#57fe42&lu&#64fd43&ln&#71fd43&lc&#7dfd43&lm&#8afd44&le&#97fd44&ln&#a4fd45&lt"
+  - "&#7dfd43&lL&#71fd43&la&#64fd43&lt&#57fe42&le&#4afe42&ls&#3efe42&lt &#31fe41&lA&#24fe41&ln&#31fe41&ln&#3efe42&lo&#4afe42&lu&#57fe42&ln&#64fd43&lc&#71fd43&lm&#7dfd43&le&#8afd44&ln&#97fd44&lt"
+  - "&#8afd44&lL&#7dfd43&la&#71fd43&lt&#64fd43&le&#57fe42&ls&#4afe42&lt &#3efe42&lA&#31fe41&ln&#24fe41&ln&#31fe41&lo&#3efe42&lu&#4afe42&ln&#57fe42&lc&#64fd43&lm&#71fd43&le&#7dfd43&ln&#8afd44&lt"
+  - "&#97fd44&lL&#8afd44&la&#7dfd43&lt&#71fd43&le&#64fd43&ls&#57fe42&lt &#4afe42&lA&#3efe42&ln&#31fe41&ln&#24fe41&lo&#31fe41&lu&#3efe42&ln&#4afe42&lc&#57fe42&lm&#64fd43&le&#71fd43&ln&#7dfd43&lt"
+  - "&#a4fd45&lL&#97fd44&la&#8afd44&lt&#7dfd43&le&#71fd43&ls&#64fd43&lt &#57fe42&lA&#4afe42&ln&#3efe42&ln&#31fe41&lo&#24fe41&lu&#31fe41&ln&#3efe42&lc&#4afe42&lm&#57fe42&le&#64fd43&ln&#71fd43&lt"
+  - "&#b0fd45&lL&#a4fd45&la&#97fd44&lt&#8afd44&le&#7dfd43&ls&#71fd43&lt &#64fd43&lA&#57fe42&ln&#4afe42&ln&#3efe42&lo&#31fe41&lu&#24fe41&ln&#31fe41&lc&#3efe42&lm&#4afe42&le&#57fe42&ln&#64fd43&lt"
+  - "&#bdfd45&lL&#b0fd45&la&#a4fd45&lt&#97fd44&le&#8afd44&ls&#7dfd43&lt &#71fd43&lA&#64fd43&ln&#57fe42&ln&#4afe42&lo&#3efe42&lu&#31fe41&ln&#24fe41&lc&#31fe41&lm&#3efe42&le&#4afe42&ln&#57fe42&lt"
+  - "&#cafc46&lL&#bdfd45&la&#b0fd45&lt&#a4fd45&le&#97fd44&ls&#8afd44&lt &#7dfd43&lA&#71fd43&ln&#64fd43&ln&#57fe42&lo&#4afe42&lu&#3efe42&ln&#31fe41&lc&#24fe41&lm&#31fe41&le&#3efe42&ln&#4afe42&lt"
+  - "&#d7fc46&lL&#cafc46&la&#bdfd45&lt&#b0fd45&le&#a4fd45&ls&#97fd44&lt &#8afd44&lA&#7dfd43&ln&#71fd43&ln&#64fd43&lo&#57fe42&lu&#4afe42&ln&#3efe42&lc&#31fe41&lm&#24fe41&le&#31fe41&ln&#3efe42&lt"
+  - "&#e3fc46&lL&#d7fc46&la&#cafc46&lt&#bdfd45&le&#b0fd45&ls&#a4fd45&lt &#97fd44&lA&#8afd44&ln&#7dfd43&ln&#71fd43&lo&#64fd43&lu&#57fe42&ln&#4afe42&lc&#3efe42&lm&#31fe41&le&#24fe41&ln&#31fe41&lt"
+  - "&#f0fc47&lL&#e3fc46&la&#d7fc46&lt&#cafc46&le&#bdfd45&ls&#b0fd45&lt &#a4fd45&lA&#97fd44&ln&#8afd44&ln&#7dfd43&lo&#71fd43&lu&#64fd43&ln&#57fe42&lc&#4afe42&lm&#3efe42&le&#31fe41&ln&#24fe41&lt"
+  - "&#fdfc47&lL&#f0fc47&la&#e3fc46&lt&#d7fc46&le&#cafc46&ls&#bdfd45&lt &#b0fd45&lA&#a4fd45&ln&#97fd44&ln&#8afd44&lo&#7dfd43&lu&#71fd43&ln&#64fd43&lc&#57fe42&lm&#4afe42&le&#3efe42&ln&#31fe41&lt"
+online:
+  change-interval: 50
+  texts:
+  - "&#d2fc46&lO&#fdfc47&ln&#d2fc46&ll&#a6fd45&li&#7bfd43&ln&#4ffe42&le"
+  - "&#a6fd45&lO&#d2fc46&ln&#fdfc47&ll&#d2fc46&li&#a6fd45&ln&#7bfd43&le"
+  - "&#7bfd43&lO&#a6fd45&ln&#d2fc46&ll&#fdfc47&li&#d2fc46&ln&#a6fd45&le"
+  - "&#4ffe42&lO&#7bfd43&ln&#a6fd45&ll&#d2fc46&li&#fdfc47&ln&#d2fc46&le"
+  - "&#24fe41&lO&#4ffe42&ln&#7bfd43&ll&#a6fd45&li&#d2fc46&ln&#fdfc47&le"
+  - "&#4ffe42&lO&#24fe41&ln&#4ffe42&ll&#7bfd43&li&#a6fd45&ln&#d2fc46&le"
+  - "&#7bfd43&lO&#4ffe42&ln&#24fe41&ll&#4ffe42&li&#7bfd43&ln&#a6fd45&le"
+  - "&#a6fd45&lO&#7bfd43&ln&#4ffe42&ll&#24fe41&li&#4ffe42&ln&#7bfd43&le"
+  - "&#d2fc46&lO&#a6fd45&ln&#7bfd43&ll&#4ffe42&li&#24fe41&ln&#4ffe42&le"
+  - "&#fdfc47&lO&#d2fc46&ln&#a6fd45&ll&#7bfd43&li&#4ffe42&ln&#24fe41&le"
+global:
+  change-interval: 50
+  texts:
+  - "&#d2fc46&lG&#fdfc47&ll&#d2fc46&lo&#a6fd45&lb&#7bfd43&la&#4ffe42&ll"
+  - "&#a6fd45&lG&#d2fc46&ll&#fdfc47&lo&#d2fc46&lb&#a6fd45&la&#7bfd43&ll"
+  - "&#7bfd43&lG&#a6fd45&ll&#d2fc46&lo&#fdfc47&lb&#d2fc46&la&#a6fd45&ll"
+  - "&#4ffe42&lG&#7bfd43&ll&#a6fd45&lo&#d2fc46&lb&#fdfc47&la&#d2fc46&ll"
+  - "&#24fe41&lG&#4ffe42&ll&#7bfd43&lo&#a6fd45&lb&#d2fc46&la&#fdfc47&ll"
+  - "&#4ffe42&lG&#24fe41&ll&#4ffe42&lo&#7bfd43&lb&#a6fd45&la&#d2fc46&ll"
+  - "&#7bfd43&lG&#4ffe42&ll&#24fe41&lo&#4ffe42&lb&#7bfd43&la&#a6fd45&ll"
+  - "&#a6fd45&lG&#7bfd43&ll&#4ffe42&lo&#24fe41&lb&#4ffe42&la&#7bfd43&ll"
+  - "&#d2fc46&lG&#a6fd45&ll&#7bfd43&lo&#4ffe42&lb&#24fe41&la&#4ffe42&ll"
+  - "&#fdfc47&lG&#d2fc46&ll&#a6fd45&lo&#7bfd43&lb&#4ffe42&la&#24fe41&ll"
+website:
+  change-interval: 50
+  texts:
+  - "&#defc46&lW&#fdfc47&le&#defc46&lb&#bffd45&ls&#a0fd44&li&#81fd44&lt&#62fd43&le&#43fe42&l:"
+  - "&#bffd45&lW&#defc46&le&#fdfc47&lb&#defc46&ls&#bffd45&li&#a0fd44&lt&#81fd44&le&#62fd43&l:"
+  - "&#a0fd44&lW&#bffd45&le&#defc46&lb&#fdfc47&ls&#defc46&li&#bffd45&lt&#a0fd44&le&#81fd44&l:"
+  - "&#81fd44&lW&#a0fd44&le&#bffd45&lb&#defc46&ls&#fdfc47&li&#defc46&lt&#bffd45&le&#a0fd44&l:"
+  - "&#62fd43&lW&#81fd44&le&#a0fd44&lb&#bffd45&ls&#defc46&li&#fdfc47&lt&#defc46&le&#bffd45&l:"
+  - "&#43fe42&lW&#62fd43&le&#81fd44&lb&#a0fd44&ls&#bffd45&li&#defc46&lt&#fdfc47&le&#defc46&l:"
+  - "&#24fe41&lW&#43fe42&le&#62fd43&lb&#81fd44&ls&#a0fd44&li&#bffd45&lt&#defc46&le&#fdfc47&l:"
+  - "&#43fe42&lW&#24fe41&le&#43fe42&lb&#62fd43&ls&#81fd44&li&#a0fd44&lt&#bffd45&le&#defc46&l:"
+  - "&#62fd43&lW&#43fe42&le&#24fe41&lb&#43fe42&ls&#62fd43&li&#81fd44&lt&#a0fd44&le&#bffd45&l:"
+  - "&#81fd44&lW&#62fd43&le&#43fe42&lb&#24fe41&ls&#43fe42&li&#62fd43&lt&#81fd44&le&#a0fd44&l:"
+  - "&#a0fd44&lW&#81fd44&le&#62fd43&lb&#43fe42&ls&#24fe41&li&#43fe42&lt&#62fd43&le&#81fd44&l:"
+  - "&#bffd45&lW&#a0fd44&le&#81fd44&lb&#62fd43&ls&#43fe42&li&#24fe41&lt&#43fe42&le&#62fd43&l:"
+  - "&#defc46&lW&#bffd45&le&#a0fd44&lb&#81fd44&ls&#62fd43&li&#43fe42&lt&#24fe41&le&#43fe42&l:"
+  - "&#fdfc47&lW&#defc46&le&#bffd45&lb&#a0fd44&ls&#81fd44&li&#62fd43&lt&#43fe42&le&#24fe41&l:"
+discord:
+  change-interval: 50
+  texts:
+  - "&#defc46&lD&#fdfc47&li&#defc46&ls&#bffd45&lc&#a0fd44&lo&#81fd44&lr&#62fd43&ld&#43fe42&l:"
+  - "&#bffd45&lD&#defc46&li&#fdfc47&ls&#defc46&lc&#bffd45&lo&#a0fd44&lr&#81fd44&ld&#62fd43&l:"
+  - "&#a0fd44&lD&#bffd45&li&#defc46&ls&#fdfc47&lc&#defc46&lo&#bffd45&lr&#a0fd44&ld&#81fd44&l:"
+  - "&#81fd44&lD&#a0fd44&li&#bffd45&ls&#defc46&lc&#fdfc47&lo&#defc46&lr&#bffd45&ld&#a0fd44&l:"
+  - "&#62fd43&lD&#81fd44&li&#a0fd44&ls&#bffd45&lc&#defc46&lo&#fdfc47&lr&#defc46&ld&#bffd45&l:"
+  - "&#43fe42&lD&#62fd43&li&#81fd44&ls&#a0fd44&lc&#bffd45&lo&#defc46&lr&#fdfc47&ld&#defc46&l:"
+  - "&#24fe41&lD&#43fe42&li&#62fd43&ls&#81fd44&lc&#a0fd44&lo&#bffd45&lr&#defc46&ld&#fdfc47&l:"
+  - "&#43fe42&lD&#24fe41&li&#43fe42&ls&#62fd43&lc&#81fd44&lo&#a0fd44&lr&#bffd45&ld&#defc46&l:"
+  - "&#62fd43&lD&#43fe42&li&#24fe41&ls&#43fe42&lc&#62fd43&lo&#81fd44&lr&#a0fd44&ld&#bffd45&l:"
+  - "&#81fd44&lD&#62fd43&li&#43fe42&ls&#24fe41&lc&#43fe42&lo&#62fd43&lr&#81fd44&ld&#a0fd44&l:"
+  - "&#a0fd44&lD&#81fd44&li&#62fd43&ls&#43fe42&lc&#24fe41&lo&#43fe42&lr&#62fd43&ld&#81fd44&l:"
+  - "&#bffd45&lD&#a0fd44&li&#81fd44&ls&#62fd43&lc&#43fe42&lo&#24fe41&lr&#43fe42&ld&#62fd43&l:"
+  - "&#defc46&lD&#bffd45&li&#a0fd44&ls&#81fd44&lc&#62fd43&lo&#43fe42&lr&#24fe41&ld&#43fe42&l:"
+  - "&#fdfc47&lD&#defc46&li&#bffd45&ls&#a0fd44&lc&#81fd44&lo&#62fd43&lr&#43fe42&ld&#24fe41&l:"
+store:
+  change-interval: 50
+  texts:
+  - "&#d2fc46&lS&#fdfc47&lt&#d2fc46&lo&#a6fd45&lr&#7bfd43&le&#4ffe42&l:"
+  - "&#a6fd45&lS&#d2fc46&lt&#fdfc47&lo&#d2fc46&lr&#a6fd45&le&#7bfd43&l:"
+  - "&#7bfd43&lS&#a6fd45&lt&#d2fc46&lo&#fdfc47&lr&#d2fc46&le&#a6fd45&l:"
+  - "&#4ffe42&lS&#7bfd43&lt&#a6fd45&lo&#d2fc46&lr&#fdfc47&le&#d2fc46&l:"
+  - "&#24fe41&lS&#4ffe42&lt&#7bfd43&lo&#a6fd45&lr&#d2fc46&le&#fdfc47&l:"
+  - "&#4ffe42&lS&#24fe41&lt&#4ffe42&lo&#7bfd43&lr&#a6fd45&le&#d2fc46&l:"
+  - "&#7bfd43&lS&#4ffe42&lt&#24fe41&lo&#4ffe42&lr&#7bfd43&le&#a6fd45&l:"
+  - "&#a6fd45&lS&#7bfd43&lt&#4ffe42&lo&#24fe41&lr&#4ffe42&le&#7bfd43&l:"
+  - "&#d2fc46&lS&#a6fd45&lt&#7bfd43&lo&#4ffe42&lr&#24fe41&le&#4ffe42&l:"
+  - "&#fdfc47&lS&#d2fc46&lt&#a6fd45&lo&#7bfd43&lr&#4ffe42&le&#24fe41&l:"
+line:
+  change-interval: 50
+  texts:
+  - "&#24FE41&m-----------------&#FDFC47&m-----------------&#24FE41&m-----------------"
+left:
+  change-interval: 200
+  texts:
+  - "&8⋙⋙⋙"
+  - "&#24FE41⋙&8⋙⋙"
+  - "&8⋙&#24FE41⋙&8⋙"
+  - "&8⋙⋙&#24FE41⋙" 
+  - "&8⋙⋙⋙"
+  - "&#FDFC47⋙&8⋙⋙"
+  - "&8⋙&#FDFC47⋙&8⋙"
+  - "&8⋙⋙&#FDFC47⋙" 
+right:
+  change-interval: 200
+  texts:
+  - "&8⋘⋘⋘"
+  - "&8⋘⋘&#24FE41⋘"
+  - "&8⋘&#24FE41⋘&8⋘"
+  - "&#24FE41⋘&8⋘⋘"
+  - "&8⋘⋘⋘"
+  - "&8⋘⋘&#FDFC47⋘"
+  - "&8⋘&#FDFC47⋘&8⋘"
+  - "&#FDFC47⋘&8⋘⋘"
+player:
+  change-interval: 600
+  texts:
+  - "&#FDFC47%player_name%"
+  - "&#24FE41%player_name%"

@@ -1,0 +1,101 @@
+server:
+  change-interval: 50
+  texts:
+  - "&#ef1070&lS&#ee0979&le&#ef1070&lr&#f11866&lv&#f21f5d&le&#f32754&lr &#f52e4a&lN&#f63641&le&#f73d38&lt&#f8452f&lw&#fa4c25&lo&#fb541c&lr&#fc5b13&lk"
+  - "&#f11866&lS&#ef1070&le&#ee0979&lr&#ef1070&lv&#f11866&le&#f21f5d&lr &#f32754&lN&#f52e4a&le&#f63641&lt&#f73d38&lw&#f8452f&lo&#fa4c25&lr&#fb541c&lk"
+  - "&#f21f5d&lS&#f11866&le&#ef1070&lr&#ee0979&lv&#ef1070&le&#f11866&lr &#f21f5d&lN&#f32754&le&#f52e4a&lt&#f63641&lw&#f73d38&lo&#f8452f&lr&#fa4c25&lk"
+  - "&#f32754&lS&#f21f5d&le&#f11866&lr&#ef1070&lv&#ee0979&le&#ef1070&lr &#f11866&lN&#f21f5d&le&#f32754&lt&#f52e4a&lw&#f63641&lo&#f73d38&lr&#f8452f&lk"
+  - "&#f52e4a&lS&#f32754&le&#f21f5d&lr&#f11866&lv&#ef1070&le&#ee0979&lr &#ef1070&lN&#f11866&le&#f21f5d&lt&#f32754&lw&#f52e4a&lo&#f63641&lr&#f73d38&lk"
+  - "&#f63641&lS&#f52e4a&le&#f32754&lr&#f21f5d&lv&#f11866&le&#ef1070&lr &#ee0979&lN&#ef1070&le&#f11866&lt&#f21f5d&lw&#f32754&lo&#f52e4a&lr&#f63641&lk"
+  - "&#f73d38&lS&#f63641&le&#f52e4a&lr&#f32754&lv&#f21f5d&le&#f11866&lr &#ef1070&lN&#ee0979&le&#ef1070&lt&#f11866&lw&#f21f5d&lo&#f32754&lr&#f52e4a&lk"
+  - "&#f8452f&lS&#f73d38&le&#f63641&lr&#f52e4a&lv&#f32754&le&#f21f5d&lr &#f11866&lN&#ef1070&le&#ee0979&lt&#ef1070&lw&#f11866&lo&#f21f5d&lr&#f32754&lk"
+  - "&#fa4c25&lS&#f8452f&le&#f73d38&lr&#f63641&lv&#f52e4a&le&#f32754&lr &#f21f5d&lN&#f11866&le&#ef1070&lt&#ee0979&lw&#ef1070&lo&#f11866&lr&#f21f5d&lk"
+  - "&#fb541c&lS&#fa4c25&le&#f8452f&lr&#f73d38&lv&#f63641&le&#f52e4a&lr &#f32754&lN&#f21f5d&le&#f11866&lt&#ef1070&lw&#ee0979&lo&#ef1070&lr&#f11866&lk"
+  - "&#fc5b13&lS&#fb541c&le&#fa4c25&lr&#f8452f&lv&#f73d38&le&#f63641&lr &#f52e4a&lN&#f32754&le&#f21f5d&lt&#f11866&lw&#ef1070&lo&#ee0979&lr&#ef1070&lk"
+  - "&#fe6309&lS&#fc5b13&le&#fb541c&lr&#fa4c25&lv&#f8452f&le&#f73d38&lr &#f63641&lN&#f52e4a&le&#f32754&lt&#f21f5d&lw&#f11866&lo&#ef1070&lr&#ee0979&lk"
+  - "&#ff6a00&lS&#fe6309&le&#fc5b13&lr&#fb541c&lv&#fa4c25&le&#f8452f&lr &#f73d38&lN&#f63641&le&#f52e4a&lt&#f32754&lw&#f21f5d&lo&#f11866&lr&#ef1070&lk"
+  - "&#fe6309&lS&#ff6a00&le&#fe6309&lr&#fc5b13&lv&#fb541c&le&#fa4c25&lr &#f8452f&lN&#f73d38&le&#f63641&lt&#f52e4a&lw&#f32754&lo&#f21f5d&lr&#f11866&lk"
+  - "&#fc5b13&lS&#fe6309&le&#ff6a00&lr&#fe6309&lv&#fc5b13&le&#fb541c&lr &#fa4c25&lN&#f8452f&le&#f73d38&lt&#f63641&lw&#f52e4a&lo&#f32754&lr&#f21f5d&lk"
+  - "&#fb541c&lS&#fc5b13&le&#fe6309&lr&#ff6a00&lv&#fe6309&le&#fc5b13&lr &#fb541c&lN&#fa4c25&le&#f8452f&lt&#f73d38&lw&#f63641&lo&#f52e4a&lr&#f32754&lk"
+  - "&#fa4c25&lS&#fb541c&le&#fc5b13&lr&#fe6309&lv&#ff6a00&le&#fe6309&lr &#fc5b13&lN&#fb541c&le&#fa4c25&lt&#f8452f&lw&#f73d38&lo&#f63641&lr&#f52e4a&lk"
+  - "&#f8452f&lS&#fa4c25&le&#fb541c&lr&#fc5b13&lv&#fe6309&le&#ff6a00&lr &#fe6309&lN&#fc5b13&le&#fb541c&lt&#fa4c25&lw&#f8452f&lo&#f73d38&lr&#f63641&lk"
+  - "&#f73d38&lS&#f8452f&le&#fa4c25&lr&#fb541c&lv&#fc5b13&le&#fe6309&lr &#ff6a00&lN&#fe6309&le&#fc5b13&lt&#fb541c&lw&#fa4c25&lo&#f8452f&lr&#f73d38&lk"
+  - "&#f63641&lS&#f73d38&le&#f8452f&lr&#fa4c25&lv&#fb541c&le&#fc5b13&lr &#fe6309&lN&#ff6a00&le&#fe6309&lt&#fc5b13&lw&#fb541c&lo&#fa4c25&lr&#f8452f&lk"
+  - "&#f52e4a&lS&#f63641&le&#f73d38&lr&#f8452f&lv&#fa4c25&le&#fb541c&lr &#fc5b13&lN&#fe6309&le&#ff6a00&lt&#fe6309&lw&#fc5b13&lo&#fb541c&lr&#fa4c25&lk"
+  - "&#f32754&lS&#f52e4a&le&#f63641&lr&#f73d38&lv&#f8452f&le&#fa4c25&lr &#fb541c&lN&#fc5b13&le&#fe6309&lt&#ff6a00&lw&#fe6309&lo&#fc5b13&lr&#fb541c&lk"
+  - "&#f21f5d&lS&#f32754&le&#f52e4a&lr&#f63641&lv&#f73d38&le&#f8452f&lr &#fa4c25&lN&#fb541c&le&#fc5b13&lt&#fe6309&lw&#ff6a00&lo&#fe6309&lr&#fc5b13&lk"
+  - "&#f11866&lS&#f21f5d&le&#f32754&lr&#f52e4a&lv&#f63641&le&#f73d38&lr &#f8452f&lN&#fa4c25&le&#fb541c&lt&#fc5b13&lw&#fe6309&lo&#ff6a00&lr&#fe6309&lk"
+  - "&#ef1070&lS&#f11866&le&#f21f5d&lr&#f32754&lv&#f52e4a&le&#f63641&lr &#f73d38&lN&#f8452f&le&#fa4c25&lt&#fb541c&lw&#fc5b13&lo&#fe6309&lr&#ff6a00&lk"
+  - "&#ee0979&lS&#ef1070&le&#f11866&lr&#f21f5d&lv&#f32754&le&#f52e4a&lr &#f63641&lN&#f73d38&le&#f8452f&lt&#fa4c25&lw&#fb541c&lo&#fc5b13&lr&#fe6309&lk"
+store:
+  change-interval: 100
+  texts:
+  - "&#f11c61&lS&#ee0979&lT&#f11c61&lO&#f53049&lR&#f84330&lE&#fc5718&l:"
+  - "&#f53049&lS&#f11c61&lT&#ee0979&lO&#f11c61&lR&#f53049&lE&#f84330&l:"
+  - "&#f84330&lS&#f53049&lT&#f11c61&lO&#ee0979&lR&#f11c61&lE&#f53049&l:"
+  - "&#fc5718&lS&#f84330&lT&#f53049&lO&#f11c61&lR&#ee0979&lE&#f11c61&l:"
+  - "&#ff6a00&lS&#fc5718&lT&#f84330&lO&#f53049&lR&#f11c61&lE&#ee0979&l:"
+  - "&#fc5718&lS&#ff6a00&lT&#fc5718&lO&#f84330&lR&#f53049&lE&#f11c61&l:"
+  - "&#f84330&lS&#fc5718&lT&#ff6a00&lO&#fc5718&lR&#f84330&lE&#f53049&l:"
+  - "&#f53049&lS&#f84330&lT&#fc5718&lO&#ff6a00&lR&#fc5718&lE&#f84330&l:"
+  - "&#f11c61&lS&#f53049&lT&#f84330&lO&#fc5718&lR&#ff6a00&lE&#fc5718&l:"
+  - "&#ee0979&lS&#f11c61&lT&#f53049&lO&#f84330&lR&#fc5718&lE&#ff6a00&l:"
+discord:
+  change-interval: 50
+  texts:
+  - "&#f01768&lD&#ee0979&lI&#f01768&lS&#f32556&lC&#f53345&lO&#f84034&lR&#fa4e23&lD&#fd5c11&l:"
+  - "&#f32556&lD&#f01768&lI&#ee0979&lS&#f01768&lC&#f32556&lO&#f53345&lR&#f84034&lD&#fa4e23&l:"
+  - "&#f53345&lD&#f32556&lI&#f01768&lS&#ee0979&lC&#f01768&lO&#f32556&lR&#f53345&lD&#f84034&l:"
+  - "&#f84034&lD&#f53345&lI&#f32556&lS&#f01768&lC&#ee0979&lO&#f01768&lR&#f32556&lD&#f53345&l:"
+  - "&#fa4e23&lD&#f84034&lI&#f53345&lS&#f32556&lC&#f01768&lO&#ee0979&lR&#f01768&lD&#f32556&l:"
+  - "&#fd5c11&lD&#fa4e23&lI&#f84034&lS&#f53345&lC&#f32556&lO&#f01768&lR&#ee0979&lD&#f01768&l:"
+  - "&#ff6a00&lD&#fd5c11&lI&#fa4e23&lS&#f84034&lC&#f53345&lO&#f32556&lR&#f01768&lD&#ee0979&l:"
+  - "&#fd5c11&lD&#ff6a00&lI&#fd5c11&lS&#fa4e23&lC&#f84034&lO&#f53345&lR&#f32556&lD&#f01768&l:"
+  - "&#fa4e23&lD&#fd5c11&lI&#ff6a00&lS&#fd5c11&lC&#fa4e23&lO&#f84034&lR&#f53345&lD&#f32556&l:"
+  - "&#f84034&lD&#fa4e23&lI&#fd5c11&lS&#ff6a00&lC&#fd5c11&lO&#fa4e23&lR&#f84034&lD&#f53345&l:"
+  - "&#f53345&lD&#f84034&lI&#fa4e23&lS&#fd5c11&lC&#ff6a00&lO&#fd5c11&lR&#fa4e23&lD&#f84034&l:"
+  - "&#f32556&lD&#f53345&lI&#f84034&lS&#fa4e23&lC&#fd5c11&lO&#ff6a00&lR&#fd5c11&lD&#fa4e23&l:"
+  - "&#f01768&lD&#f32556&lI&#f53345&lS&#f84034&lC&#fa4e23&lO&#fd5c11&lR&#ff6a00&lD&#fd5c11&l:"
+  - "&#ee0979&lD&#f01768&lI&#f32556&lS&#f53345&lC&#f84034&lO&#fa4e23&lR&#fd5c11&lD&#ff6a00&l:"
+players:
+  change-interval: 50
+  texts:
+  - "&#f01768P&#ee0979l&#f01768a&#f32556y&#f53345e&#f84034r&#fa4e23s&#fd5c11:"
+  - "&#f32556P&#f01768l&#ee0979a&#f01768y&#f32556e&#f53345r&#f84034s&#fa4e23:"
+  - "&#f53345P&#f32556l&#f01768a&#ee0979y&#f01768e&#f32556r&#f53345s&#f84034:"
+  - "&#f84034P&#f53345l&#f32556a&#f01768y&#ee0979e&#f01768r&#f32556s&#f53345:"
+  - "&#fa4e23P&#f84034l&#f53345a&#f32556y&#f01768e&#ee0979r&#f01768s&#f32556:"
+  - "&#fd5c11P&#fa4e23l&#f84034a&#f53345y&#f32556e&#f01768r&#ee0979s&#f01768:"
+  - "&#ff6a00P&#fd5c11l&#fa4e23a&#f84034y&#f53345e&#f32556r&#f01768s&#ee0979:"
+  - "&#fd5c11P&#ff6a00l&#fd5c11a&#fa4e23y&#f84034e&#f53345r&#f32556s&#f01768:"
+  - "&#fa4e23P&#fd5c11l&#ff6a00a&#fd5c11y&#fa4e23e&#f84034r&#f53345s&#f32556:"
+  - "&#f84034P&#fa4e23l&#fd5c11a&#ff6a00y&#fd5c11e&#fa4e23r&#f84034s&#f53345:"
+  - "&#f53345P&#f84034l&#fa4e23a&#fd5c11y&#ff6a00e&#fd5c11r&#fa4e23s&#f84034:"
+  - "&#f32556P&#f53345l&#f84034a&#fa4e23y&#fd5c11e&#ff6a00r&#fd5c11s&#fa4e23:"
+  - "&#f01768P&#f32556l&#f53345a&#f84034y&#fa4e23e&#fd5c11r&#ff6a00s&#fd5c11:"
+  - "&#ee0979P&#f01768l&#f32556a&#f53345y&#f84034e&#fa4e23r&#fd5c11s&#ff6a00:"
+ping:
+  change-interval: 50
+  texts:
+  - "&#f2215bP&#ee0979i&#f2215bn&#f73a3dg&#fb521e:"
+  - "&#f73a3dP&#f2215bi&#ee0979n&#f2215bg&#f73a3d:"
+  - "&#fb521eP&#f73a3di&#f2215bn&#ee0979g&#f2215b:"
+  - "&#ff6a00P&#fb521ei&#f73a3dn&#f2215bg&#ee0979:"
+  - "&#fb521eP&#ff6a00i&#fb521en&#f73a3dg&#f2215b:"
+  - "&#f73a3dP&#fb521ei&#ff6a00n&#fb521eg&#f73a3d:"
+  - "&#f2215bP&#f73a3di&#fb521en&#ff6a00g&#fb521e:"
+  - "&#ee0979P&#f2215bi&#f73a3dn&#fb521eg&#ff6a00:"
+realm:
+  change-interval: 50
+  texts:
+  - "&#f11c61R&#ee0979e&#f11c61a&#f53049l&#f84330m&#fc5718:"
+  - "&#f53049R&#f11c61e&#ee0979a&#f11c61l&#f53049m&#f84330:"
+  - "&#f84330R&#f53049e&#f11c61a&#ee0979l&#f11c61m&#f53049:"
+  - "&#fc5718R&#f84330e&#f53049a&#f11c61l&#ee0979m&#f11c61:"
+  - "&#ff6a00R&#fc5718e&#f84330a&#f53049l&#f11c61m&#ee0979:"
+  - "&#fc5718R&#ff6a00e&#fc5718a&#f84330l&#f53049m&#f11c61:"
+  - "&#f84330R&#fc5718e&#ff6a00a&#fc5718l&#f84330m&#f53049:"
+  - "&#f53049R&#f84330e&#fc5718a&#ff6a00l&#fc5718m&#f84330:"
+  - "&#f11c61R&#f53049e&#f84330a&#fc5718l&#ff6a00m&#fc5718:"
+  - "&#ee0979R&#f11c61e&#f53049a&#f84330l&#fc5718m&#ff6a00:"
+                

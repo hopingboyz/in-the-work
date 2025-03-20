@@ -1,0 +1,75 @@
+server:
+  change-interval: 50
+  texts:
+  - "&#a3146e&lS&#a80077&lE&#a3146e&lR&#9e2765&lV&#993b5c&lE&#944e52&lR &#8f6249&lN&#8a7640&lE&#848937&lT&#7f9d2e&lW&#7ab125&lO&#75c41b&lR&#70d812&lK"
+  - "&#9e2765&lS&#a3146e&lE&#a80077&lR&#a3146e&lV&#9e2765&lE&#993b5c&lR &#944e52&lN&#8f6249&lE&#8a7640&lT&#848937&lW&#7f9d2e&lO&#7ab125&lR&#75c41b&lK"
+  - "&#993b5c&lS&#9e2765&lE&#a3146e&lR&#a80077&lV&#a3146e&lE&#9e2765&lR &#993b5c&lN&#944e52&lE&#8f6249&lT&#8a7640&lW&#848937&lO&#7f9d2e&lR&#7ab125&lK"
+  - "&#944e52&lS&#993b5c&lE&#9e2765&lR&#a3146e&lV&#a80077&lE&#a3146e&lR &#9e2765&lN&#993b5c&lE&#944e52&lT&#8f6249&lW&#8a7640&lO&#848937&lR&#7f9d2e&lK"
+  - "&#8f6249&lS&#944e52&lE&#993b5c&lR&#9e2765&lV&#a3146e&lE&#a80077&lR &#a3146e&lN&#9e2765&lE&#993b5c&lT&#944e52&lW&#8f6249&lO&#8a7640&lR&#848937&lK"
+  - "&#8a7640&lS&#8f6249&lE&#944e52&lR&#993b5c&lV&#9e2765&lE&#a3146e&lR &#a80077&lN&#a3146e&lE&#9e2765&lT&#993b5c&lW&#944e52&lO&#8f6249&lR&#8a7640&lK"
+  - "&#848937&lS&#8a7640&lE&#8f6249&lR&#944e52&lV&#993b5c&lE&#9e2765&lR &#a3146e&lN&#a80077&lE&#a3146e&lT&#9e2765&lW&#993b5c&lO&#944e52&lR&#8f6249&lK"
+  - "&#7f9d2e&lS&#848937&lE&#8a7640&lR&#8f6249&lV&#944e52&lE&#993b5c&lR &#9e2765&lN&#a3146e&lE&#a80077&lT&#a3146e&lW&#9e2765&lO&#993b5c&lR&#944e52&lK"
+  - "&#7ab125&lS&#7f9d2e&lE&#848937&lR&#8a7640&lV&#8f6249&lE&#944e52&lR &#993b5c&lN&#9e2765&lE&#a3146e&lT&#a80077&lW&#a3146e&lO&#9e2765&lR&#993b5c&lK"
+  - "&#75c41b&lS&#7ab125&lE&#7f9d2e&lR&#848937&lV&#8a7640&lE&#8f6249&lR &#944e52&lN&#993b5c&lE&#9e2765&lT&#a3146e&lW&#a80077&lO&#a3146e&lR&#9e2765&lK"
+  - "&#70d812&lS&#75c41b&lE&#7ab125&lR&#7f9d2e&lV&#848937&lE&#8a7640&lR &#8f6249&lN&#944e52&lE&#993b5c&lT&#9e2765&lW&#a3146e&lO&#a80077&lR&#a3146e&lK"
+  - "&#6beb09&lS&#70d812&lE&#75c41b&lR&#7ab125&lV&#7f9d2e&lE&#848937&lR &#8a7640&lN&#8f6249&lE&#944e52&lT&#993b5c&lW&#9e2765&lO&#a3146e&lR&#a80077&lK"
+  - "&#66ff00&lS&#6beb09&lE&#70d812&lR&#75c41b&lV&#7ab125&lE&#7f9d2e&lR &#848937&lN&#8a7640&lE&#8f6249&lT&#944e52&lW&#993b5c&lO&#9e2765&lR&#a3146e&lK"
+  - "&#6beb09&lS&#66ff00&lE&#6beb09&lR&#70d812&lV&#75c41b&lE&#7ab125&lR &#7f9d2e&lN&#848937&lE&#8a7640&lT&#8f6249&lW&#944e52&lO&#993b5c&lR&#9e2765&lK"
+  - "&#70d812&lS&#6beb09&lE&#66ff00&lR&#6beb09&lV&#70d812&lE&#75c41b&lR &#7ab125&lN&#7f9d2e&lE&#848937&lT&#8a7640&lW&#8f6249&lO&#944e52&lR&#993b5c&lK"
+  - "&#75c41b&lS&#70d812&lE&#6beb09&lR&#66ff00&lV&#6beb09&lE&#70d812&lR &#75c41b&lN&#7ab125&lE&#7f9d2e&lT&#848937&lW&#8a7640&lO&#8f6249&lR&#944e52&lK"
+  - "&#7ab125&lS&#75c41b&lE&#70d812&lR&#6beb09&lV&#66ff00&lE&#6beb09&lR &#70d812&lN&#75c41b&lE&#7ab125&lT&#7f9d2e&lW&#848937&lO&#8a7640&lR&#8f6249&lK"
+  - "&#7f9d2e&lS&#7ab125&lE&#75c41b&lR&#70d812&lV&#6beb09&lE&#66ff00&lR &#6beb09&lN&#70d812&lE&#75c41b&lT&#7ab125&lW&#7f9d2e&lO&#848937&lR&#8a7640&lK"
+  - "&#848937&lS&#7f9d2e&lE&#7ab125&lR&#75c41b&lV&#70d812&lE&#6beb09&lR &#66ff00&lN&#6beb09&lE&#70d812&lT&#75c41b&lW&#7ab125&lO&#7f9d2e&lR&#848937&lK"
+  - "&#8a7640&lS&#848937&lE&#7f9d2e&lR&#7ab125&lV&#75c41b&lE&#70d812&lR &#6beb09&lN&#66ff00&lE&#6beb09&lT&#70d812&lW&#75c41b&lO&#7ab125&lR&#7f9d2e&lK"
+  - "&#8f6249&lS&#8a7640&lE&#848937&lR&#7f9d2e&lV&#7ab125&lE&#75c41b&lR &#70d812&lN&#6beb09&lE&#66ff00&lT&#6beb09&lW&#70d812&lO&#75c41b&lR&#7ab125&lK"
+  - "&#944e52&lS&#8f6249&lE&#8a7640&lR&#848937&lV&#7f9d2e&lE&#7ab125&lR &#75c41b&lN&#70d812&lE&#6beb09&lT&#66ff00&lW&#6beb09&lO&#70d812&lR&#75c41b&lK"
+  - "&#993b5c&lS&#944e52&lE&#8f6249&lR&#8a7640&lV&#848937&lE&#7f9d2e&lR &#7ab125&lN&#75c41b&lE&#70d812&lT&#6beb09&lW&#66ff00&lO&#6beb09&lR&#70d812&lK"
+  - "&#9e2765&lS&#993b5c&lE&#944e52&lR&#8f6249&lV&#8a7640&lE&#848937&lR &#7f9d2e&lN&#7ab125&lE&#75c41b&lT&#70d812&lW&#6beb09&lO&#66ff00&lR&#6beb09&lK"
+  - "&#a3146e&lS&#9e2765&lE&#993b5c&lR&#944e52&lV&#8f6249&lE&#8a7640&lR &#848937&lN&#7f9d2e&lE&#7ab125&lT&#75c41b&lW&#70d812&lO&#6beb09&lR&#66ff00&lK"
+  - "&#a80077&lS&#a3146e&lE&#9e2765&lR&#993b5c&lV&#944e52&lE&#8f6249&lR &#8a7640&lN&#848937&lE&#7f9d2e&lT&#7ab125&lW&#75c41b&lO&#70d812&lR&#6beb09&lK"
+animation:
+  change-interval: 300
+  texts:
+  - "&7★"
+  - "&8★"
+colors:
+  change-interval: 300
+  texts:
+  - "&#a80077"
+  - "&#66ff00"
+website:
+  change-interval: 50
+  texts:
+  - "&#a80077&lWEBSITE"
+  - "&#9d2b63&lWEBSITE"
+  - "&#92554f&lWEBSITE"
+  - "&#87803c&lWEBSITE"
+  - "&#7caa28&lWEBSITE"
+  - "&#71d514&lWEBSITE"
+  - "&#66ff00&lWEBSITE"
+  - "&#71d514&lWEBSITE"
+  - "&#7caa28&lWEBSITE"
+  - "&#87803c&lWEBSITE"
+  - "&#92554f&lWEBSITE"
+  - "&#9d2b63&lWEBSITE"
+vote:
+  change-interval: 100
+  texts:
+  - "&#a80077&lVOTE"
+  - "&#92554f&lVOTE"
+  - "&#7caa28&lVOTE"
+  - "&#66ff00&lVOTE"
+  - "&#7caa28&lVOTE"
+  - "&#92554f&lVOTE"
+store:
+  change-interval: 100
+  texts:
+  - "&#a80077&lSTORE"
+  - "&#984059&lSTORE"
+  - "&#87803c&lSTORE"
+  - "&#77bf1e&lSTORE"
+  - "&#66ff00&lSTORE"
+  - "&#77bf1e&lSTORE"
+  - "&#87803c&lSTORE"
+  - "&#984059&lSTORE"
+                

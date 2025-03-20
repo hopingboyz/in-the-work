@@ -1,0 +1,109 @@
+server:
+  change-interval: 50
+  texts:
+  - "&#fcc130&lꜱ&#fdc830&lᴇ&#fcc130&lʀ&#fbbb31&lᴠ&#fbb431&lᴇ&#faae32&lʀ &#f9a732&lɴ&#f8a132&lᴇ&#f89a33&lᴛ&#f79433&lᴡ&#f68d33&lᴏ&#f58734&lʀ&#f58034&lᴋ"
+  - "&#fbbb31&lꜱ&#fcc130&lᴇ&#fdc830&lʀ&#fcc130&lᴠ&#fbbb31&lᴇ&#fbb431&lʀ &#faae32&lɴ&#f9a732&lᴇ&#f8a132&lᴛ&#f89a33&lᴡ&#f79433&lᴏ&#f68d33&lʀ&#f58734&lᴋ"
+  - "&#fbb431&lꜱ&#fbbb31&lᴇ&#fcc130&lʀ&#fdc830&lᴠ&#fcc130&lᴇ&#fbbb31&lʀ &#fbb431&lɴ&#faae32&lᴇ&#f9a732&lᴛ&#f8a132&lᴡ&#f89a33&lᴏ&#f79433&lʀ&#f68d33&lᴋ"
+  - "&#faae32&lꜱ&#fbb431&lᴇ&#fbbb31&lʀ&#fcc130&lᴠ&#fdc830&lᴇ&#fcc130&lʀ &#fbbb31&lɴ&#fbb431&lᴇ&#faae32&lᴛ&#f9a732&lᴡ&#f8a132&lᴏ&#f89a33&lʀ&#f79433&lᴋ"
+  - "&#f9a732&lꜱ&#faae32&lᴇ&#fbb431&lʀ&#fbbb31&lᴠ&#fcc130&lᴇ&#fdc830&lʀ &#fcc130&lɴ&#fbbb31&lᴇ&#fbb431&lᴛ&#faae32&lᴡ&#f9a732&lᴏ&#f8a132&lʀ&#f89a33&lᴋ"
+  - "&#f8a132&lꜱ&#f9a732&lᴇ&#faae32&lʀ&#fbb431&lᴠ&#fbbb31&lᴇ&#fcc130&lʀ &#fdc830&lɴ&#fcc130&lᴇ&#fbbb31&lᴛ&#fbb431&lᴡ&#faae32&lᴏ&#f9a732&lʀ&#f8a132&lᴋ"
+  - "&#f89a33&lꜱ&#f8a132&lᴇ&#f9a732&lʀ&#faae32&lᴠ&#fbb431&lᴇ&#fbbb31&lʀ &#fcc130&lɴ&#fdc830&lᴇ&#fcc130&lᴛ&#fbbb31&lᴡ&#fbb431&lᴏ&#faae32&lʀ&#f9a732&lᴋ"
+  - "&#f79433&lꜱ&#f89a33&lᴇ&#f8a132&lʀ&#f9a732&lᴠ&#faae32&lᴇ&#fbb431&lʀ &#fbbb31&lɴ&#fcc130&lᴇ&#fdc830&lᴛ&#fcc130&lᴡ&#fbbb31&lᴏ&#fbb431&lʀ&#faae32&lᴋ"
+  - "&#f68d33&lꜱ&#f79433&lᴇ&#f89a33&lʀ&#f8a132&lᴠ&#f9a732&lᴇ&#faae32&lʀ &#fbb431&lɴ&#fbbb31&lᴇ&#fcc130&lᴛ&#fdc830&lᴡ&#fcc130&lᴏ&#fbbb31&lʀ&#fbb431&lᴋ"
+  - "&#f58734&lꜱ&#f68d33&lᴇ&#f79433&lʀ&#f89a33&lᴠ&#f8a132&lᴇ&#f9a732&lʀ &#faae32&lɴ&#fbb431&lᴇ&#fbbb31&lᴛ&#fcc130&lᴡ&#fdc830&lᴏ&#fcc130&lʀ&#fbbb31&lᴋ"
+  - "&#f58034&lꜱ&#f58734&lᴇ&#f68d33&lʀ&#f79433&lᴠ&#f89a33&lᴇ&#f8a132&lʀ &#f9a732&lɴ&#faae32&lᴇ&#fbb431&lᴛ&#fbbb31&lᴡ&#fcc130&lᴏ&#fdc830&lʀ&#fcc130&lᴋ"
+  - "&#f47a35&lꜱ&#f58034&lᴇ&#f58734&lʀ&#f68d33&lᴠ&#f79433&lᴇ&#f89a33&lʀ &#f8a132&lɴ&#f9a732&lᴇ&#faae32&lᴛ&#fbb431&lᴡ&#fbbb31&lᴏ&#fcc130&lʀ&#fdc830&lᴋ"
+  - "&#f37335&lꜱ&#f47a35&lᴇ&#f58034&lʀ&#f58734&lᴠ&#f68d33&lᴇ&#f79433&lʀ &#f89a33&lɴ&#f8a132&lᴇ&#f9a732&lᴛ&#faae32&lᴡ&#fbb431&lᴏ&#fbbb31&lʀ&#fcc130&lᴋ"
+  - "&#f47a35&lꜱ&#f37335&lᴇ&#f47a35&lʀ&#f58034&lᴠ&#f58734&lᴇ&#f68d33&lʀ &#f79433&lɴ&#f89a33&lᴇ&#f8a132&lᴛ&#f9a732&lᴡ&#faae32&lᴏ&#fbb431&lʀ&#fbbb31&lᴋ"
+  - "&#f58034&lꜱ&#f47a35&lᴇ&#f37335&lʀ&#f47a35&lᴠ&#f58034&lᴇ&#f58734&lʀ &#f68d33&lɴ&#f79433&lᴇ&#f89a33&lᴛ&#f8a132&lᴡ&#f9a732&lᴏ&#faae32&lʀ&#fbb431&lᴋ"
+  - "&#f58734&lꜱ&#f58034&lᴇ&#f47a35&lʀ&#f37335&lᴠ&#f47a35&lᴇ&#f58034&lʀ &#f58734&lɴ&#f68d33&lᴇ&#f79433&lᴛ&#f89a33&lᴡ&#f8a132&lᴏ&#f9a732&lʀ&#faae32&lᴋ"
+  - "&#f68d33&lꜱ&#f58734&lᴇ&#f58034&lʀ&#f47a35&lᴠ&#f37335&lᴇ&#f47a35&lʀ &#f58034&lɴ&#f58734&lᴇ&#f68d33&lᴛ&#f79433&lᴡ&#f89a33&lᴏ&#f8a132&lʀ&#f9a732&lᴋ"
+  - "&#f79433&lꜱ&#f68d33&lᴇ&#f58734&lʀ&#f58034&lᴠ&#f47a35&lᴇ&#f37335&lʀ &#f47a35&lɴ&#f58034&lᴇ&#f58734&lᴛ&#f68d33&lᴡ&#f79433&lᴏ&#f89a33&lʀ&#f8a132&lᴋ"
+  - "&#f89a33&lꜱ&#f79433&lᴇ&#f68d33&lʀ&#f58734&lᴠ&#f58034&lᴇ&#f47a35&lʀ &#f37335&lɴ&#f47a35&lᴇ&#f58034&lᴛ&#f58734&lᴡ&#f68d33&lᴏ&#f79433&lʀ&#f89a33&lᴋ"
+  - "&#f8a132&lꜱ&#f89a33&lᴇ&#f79433&lʀ&#f68d33&lᴠ&#f58734&lᴇ&#f58034&lʀ &#f47a35&lɴ&#f37335&lᴇ&#f47a35&lᴛ&#f58034&lᴡ&#f58734&lᴏ&#f68d33&lʀ&#f79433&lᴋ"
+  - "&#f9a732&lꜱ&#f8a132&lᴇ&#f89a33&lʀ&#f79433&lᴠ&#f68d33&lᴇ&#f58734&lʀ &#f58034&lɴ&#f47a35&lᴇ&#f37335&lᴛ&#f47a35&lᴡ&#f58034&lᴏ&#f58734&lʀ&#f68d33&lᴋ"
+  - "&#faae32&lꜱ&#f9a732&lᴇ&#f8a132&lʀ&#f89a33&lᴠ&#f79433&lᴇ&#f68d33&lʀ &#f58734&lɴ&#f58034&lᴇ&#f47a35&lᴛ&#f37335&lᴡ&#f47a35&lᴏ&#f58034&lʀ&#f58734&lᴋ"
+  - "&#fbb431&lꜱ&#faae32&lᴇ&#f9a732&lʀ&#f8a132&lᴠ&#f89a33&lᴇ&#f79433&lʀ &#f68d33&lɴ&#f58734&lᴇ&#f58034&lᴛ&#f47a35&lᴡ&#f37335&lᴏ&#f47a35&lʀ&#f58034&lᴋ"
+  - "&#fbbb31&lꜱ&#fbb431&lᴇ&#faae32&lʀ&#f9a732&lᴠ&#f8a132&lᴇ&#f89a33&lʀ &#f79433&lɴ&#f68d33&lᴇ&#f58734&lᴛ&#f58034&lᴡ&#f47a35&lᴏ&#f37335&lʀ&#f47a35&lᴋ"
+  - "&#fcc130&lꜱ&#fbbb31&lᴇ&#fbb431&lʀ&#faae32&lᴠ&#f9a732&lᴇ&#f8a132&lʀ &#f89a33&lɴ&#f79433&lᴇ&#f68d33&lᴛ&#f58734&lᴡ&#f58034&lᴏ&#f47a35&lʀ&#f37335&lᴋ"
+  - "&#fdc830&lꜱ&#fcc130&lᴇ&#fbbb31&lʀ&#fbb431&lᴠ&#faae32&lᴇ&#f9a732&lʀ &#f8a132&lɴ&#f89a33&lᴇ&#f79433&lᴛ&#f68d33&lᴡ&#f58734&lᴏ&#f58034&lʀ&#f47a35&lᴋ"
+                
+                
+ip:
+  change-interval: 50
+  texts:
+  - "&#868182p&#827c7dl&#868182a&#8b8686y&#8f8a8b.&#938f90s&#989495e&#9c9999r&#a19e9ev&#a5a2a3e&#a9a7a7r&#aeacac.&#b2b1b1n&#b6b5b6e&#bbbabat"
+  - "&#8b8686p&#868182l&#827c7da&#868182y&#8b8686.&#8f8a8bs&#938f90e&#989495r&#9c9999v&#a19e9ee&#a5a2a3r&#a9a7a7.&#aeacacn&#b2b1b1e&#b6b5b6t"
+  - "&#8f8a8bp&#8b8686l&#868182a&#827c7dy&#868182.&#8b8686s&#8f8a8be&#938f90r&#989495v&#9c9999e&#a19e9er&#a5a2a3.&#a9a7a7n&#aeacace&#b2b1b1t"
+  - "&#938f90p&#8f8a8bl&#8b8686a&#868182y&#827c7d.&#868182s&#8b8686e&#8f8a8br&#938f90v&#989495e&#9c9999r&#a19e9e.&#a5a2a3n&#a9a7a7e&#aeacact"
+  - "&#989495p&#938f90l&#8f8a8ba&#8b8686y&#868182.&#827c7ds&#868182e&#8b8686r&#8f8a8bv&#938f90e&#989495r&#9c9999.&#a19e9en&#a5a2a3e&#a9a7a7t"
+  - "&#9c9999p&#989495l&#938f90a&#8f8a8by&#8b8686.&#868182s&#827c7de&#868182r&#8b8686v&#8f8a8be&#938f90r&#989495.&#9c9999n&#a19e9ee&#a5a2a3t"
+  - "&#a19e9ep&#9c9999l&#989495a&#938f90y&#8f8a8b.&#8b8686s&#868182e&#827c7dr&#868182v&#8b8686e&#8f8a8br&#938f90.&#989495n&#9c9999e&#a19e9et"
+  - "&#a5a2a3p&#a19e9el&#9c9999a&#989495y&#938f90.&#8f8a8bs&#8b8686e&#868182r&#827c7dv&#868182e&#8b8686r&#8f8a8b.&#938f90n&#989495e&#9c9999t"
+  - "&#a9a7a7p&#a5a2a3l&#a19e9ea&#9c9999y&#989495.&#938f90s&#8f8a8be&#8b8686r&#868182v&#827c7de&#868182r&#8b8686.&#8f8a8bn&#938f90e&#989495t"
+  - "&#aeacacp&#a9a7a7l&#a5a2a3a&#a19e9ey&#9c9999.&#989495s&#938f90e&#8f8a8br&#8b8686v&#868182e&#827c7dr&#868182.&#8b8686n&#8f8a8be&#938f90t"
+  - "&#b2b1b1p&#aeacacl&#a9a7a7a&#a5a2a3y&#a19e9e.&#9c9999s&#989495e&#938f90r&#8f8a8bv&#8b8686e&#868182r&#827c7d.&#868182n&#8b8686e&#8f8a8bt"
+  - "&#b6b5b6p&#b2b1b1l&#aeacaca&#a9a7a7y&#a5a2a3.&#a19e9es&#9c9999e&#989495r&#938f90v&#8f8a8be&#8b8686r&#868182.&#827c7dn&#868182e&#8b8686t"
+  - "&#bbbabap&#b6b5b6l&#b2b1b1a&#aeacacy&#a9a7a7.&#a5a2a3s&#a19e9ee&#9c9999r&#989495v&#938f90e&#8f8a8br&#8b8686.&#868182n&#827c7de&#868182t"
+  - "&#bfbfbfp&#bbbabal&#b6b5b6a&#b2b1b1y&#aeacac.&#a9a7a7s&#a5a2a3e&#a19e9er&#9c9999v&#989495e&#938f90r&#8f8a8b.&#8b8686n&#868182e&#827c7dt"
+  - "&#bbbabap&#bfbfbfl&#bbbabaa&#b6b5b6y&#b2b1b1.&#aeacacs&#a9a7a7e&#a5a2a3r&#a19e9ev&#9c9999e&#989495r&#938f90.&#8f8a8bn&#8b8686e&#868182t"
+  - "&#b6b5b6p&#bbbabal&#bfbfbfa&#bbbabay&#b6b5b6.&#b2b1b1s&#aeacace&#a9a7a7r&#a5a2a3v&#a19e9ee&#9c9999r&#989495.&#938f90n&#8f8a8be&#8b8686t"
+  - "&#b2b1b1p&#b6b5b6l&#bbbabaa&#bfbfbfy&#bbbaba.&#b6b5b6s&#b2b1b1e&#aeacacr&#a9a7a7v&#a5a2a3e&#a19e9er&#9c9999.&#989495n&#938f90e&#8f8a8bt"
+  - "&#aeacacp&#b2b1b1l&#b6b5b6a&#bbbabay&#bfbfbf.&#bbbabas&#b6b5b6e&#b2b1b1r&#aeacacv&#a9a7a7e&#a5a2a3r&#a19e9e.&#9c9999n&#989495e&#938f90t"
+  - "&#a9a7a7p&#aeacacl&#b2b1b1a&#b6b5b6y&#bbbaba.&#bfbfbfs&#bbbabae&#b6b5b6r&#b2b1b1v&#aeacace&#a9a7a7r&#a5a2a3.&#a19e9en&#9c9999e&#989495t"
+  - "&#a5a2a3p&#a9a7a7l&#aeacaca&#b2b1b1y&#b6b5b6.&#bbbabas&#bfbfbfe&#bbbabar&#b6b5b6v&#b2b1b1e&#aeacacr&#a9a7a7.&#a5a2a3n&#a19e9ee&#9c9999t"
+  - "&#a19e9ep&#a5a2a3l&#a9a7a7a&#aeacacy&#b2b1b1.&#b6b5b6s&#bbbabae&#bfbfbfr&#bbbabav&#b6b5b6e&#b2b1b1r&#aeacac.&#a9a7a7n&#a5a2a3e&#a19e9et"
+  - "&#9c9999p&#a19e9el&#a5a2a3a&#a9a7a7y&#aeacac.&#b2b1b1s&#b6b5b6e&#bbbabar&#bfbfbfv&#bbbabae&#b6b5b6r&#b2b1b1.&#aeacacn&#a9a7a7e&#a5a2a3t"
+  - "&#989495p&#9c9999l&#a19e9ea&#a5a2a3y&#a9a7a7.&#aeacacs&#b2b1b1e&#b6b5b6r&#bbbabav&#bfbfbfe&#bbbabar&#b6b5b6.&#b2b1b1n&#aeacace&#a9a7a7t"
+  - "&#938f90p&#989495l&#9c9999a&#a19e9ey&#a5a2a3.&#a9a7a7s&#aeacace&#b2b1b1r&#b6b5b6v&#bbbabae&#bfbfbfr&#bbbaba.&#b6b5b6n&#b2b1b1e&#aeacact"
+  - "&#8f8a8bp&#938f90l&#989495a&#9c9999y&#a19e9e.&#a5a2a3s&#a9a7a7e&#aeacacr&#b2b1b1v&#b6b5b6e&#bbbabar&#bfbfbf.&#bbbaban&#b6b5b6e&#b2b1b1t"
+  - "&#8b8686p&#8f8a8bl&#938f90a&#989495y&#9c9999.&#a19e9es&#a5a2a3e&#a9a7a7r&#aeacacv&#b2b1b1e&#b6b5b6r&#bbbaba.&#bfbfbfn&#bbbabae&#b6b5b6t"
+  - "&#868182p&#8b8686l&#8f8a8ba&#938f90y&#989495.&#9c9999s&#a19e9ee&#a5a2a3r&#a9a7a7v&#aeacace&#b2b1b1r&#b6b5b6.&#bbbaban&#bfbfbfe&#bbbabat"
+  - "&#827c7dp&#868182l&#8b8686a&#8f8a8by&#938f90.&#989495s&#9c9999e&#a19e9er&#a5a2a3v&#a9a7a7e&#aeacacr&#b2b1b1.&#b6b5b6n&#bbbabae&#bfbfbft"              
+announcments:
+  change-interval: 8000
+  texts:
+  - "&#7289da[ᴅɪꜱᴄᴏʀᴅ] &7[ᴡᴇʟᴄᴏᴍᴇ] &7[ꜱᴛᴏʀᴇ] &7[ᴠᴏᴛᴇ]"
+  - "&7[ᴅɪꜱᴄᴏʀᴅ] &#00F260[ᴡᴇʟᴄᴏᴍᴇ] &7[ꜱᴛᴏʀᴇ] &7[ᴠᴏᴛᴇ]"
+  - "&7[ᴅɪꜱᴄᴏʀᴅ] &7[ᴡᴇʟᴄᴏᴍᴇ] #0575E6[ꜱᴛᴏʀᴇ] &7[ᴠᴏᴛᴇ]"
+  - "&7[ᴅɪꜱᴄᴏʀᴅ] &7[ᴡᴇʟᴄᴏᴍᴇ] &7[ꜱᴛᴏʀᴇ] #FFD200[ᴠᴏᴛᴇ]"
+an1:
+  change-interval: 8000
+  texts:
+  - "&fᴊᴏɪɴ ᴏᴜʀ ᴏꜰꜰɪᴄɪᴀʟ ᴅɪꜱᴄᴏʀᴅ ᴄᴏᴍᴍᴜɴɪᴛʏ ꜰᴏʀ ᴜᴘᴅᴀᴛᴇꜱ,"
+  - "&fᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ꜱᴇʀᴠᴇʀ ɴᴇᴛᴡᴏʀᴋ ʏᴏᴜ ᴀʀᴇ"
+  - "&fᴘᴜʀᴄʜᴀꜱᴇ ᴄᴏᴍᴍᴀɴᴅꜱ, ᴘᴇʀᴋꜱ, ᴄᴏꜱᴍᴇᴛɪᴄꜱ, ᴀɴᴅ ᴍᴏʀᴇ ʙʏ"
+  - "&fɢᴇᴛ ꜰʀᴇᴇ ʀᴇᴡᴀʀᴅꜱ ʙʏ ꜱᴜᴘᴘᴏʀᴛɪɴɢ ꜱᴇʀᴠᴇʀ"
+an2:
+  change-interval: 8000
+  texts:
+  - "&fɢɪᴠᴇᴀᴡᴀʏꜱ, ᴀɴɴᴏᴜɴᴄᴍᴇɴᴛꜱ ᴀɴᴅ ᴍᴀɴʏ ᴍᴏʀᴇ!"
+  - "&fᴄᴜʀʀᴇɴᴛʟʏ ᴘʟᴀʏɪɴɢ ᴏɴ ʟᴏʙʙʏ ꜱᴇʀᴠᴇʀ!"
+  - "&fʙᴜʏɪɴɢ ʀᴀɴᴋꜱ ᴀɴᴅ ᴘᴏɪɴᴛꜱ ᴏɴ ᴏᴜʀ ꜱᴛᴏʀᴇ!"
+  - "&fᴛʜʀᴏᴜɢʜ ᴠᴏᴛɪɴɢ ꜰᴏʀ ᴛʜᴇ ꜱᴇʀᴠᴇʀ!"
+an3:
+  change-interval: 8000
+  texts:
+  - "&#7289daᴅɪꜱᴄᴏʀᴅ.ɢɢ/ꜱᴇʀᴠᴇʀ"
+  - "&#00F260ꜱᴇʀᴠᴇʀ ɴᴇᴛᴡᴏʀᴋ"
+  - "&#0575E6ꜱᴛᴏʀᴇ.ꜱᴇʀᴠᴇʀ.ɴᴇᴛ"
+  - "&#FFD200/ᴠᴏᴛᴇ"
+line:
+  change-interval: 500
+  texts:
+  - "&8&m---------------"
+  - "&7&m-&8&m--------------"
+  - "&7&m--&8&m-------------"
+  - "&7&m---&8&m------------"
+  - "&7&m----&8&m-----------"
+  - "&7&m-----&8&m----------"
+  - "&7&m------&8&m---------"
+  - "&7&m-------&8&m--------"
+  - "&7&m--------&8&m-------"
+  - "&7&m---------&8&m------"
+  - "&7&m----------&8&m-----"
+  - "&7&m-----------&8&m----"
+  - "&7&m------------&8&m---"
+  - "&7&m-------------&8&m--"
+  - "&7&m--------------&8&m-"
+  - "&7&m---------------"
